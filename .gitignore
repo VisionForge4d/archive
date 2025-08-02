@@ -1,0 +1,27 @@
+# Ignore Python cache and temp
+__pycache__/
+*.pyc
+
+# Ignore OS + editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Ignore Blender temp files
+*.blend1
+*.blend2
+
+# Ignore logs and zips
+*.log
+*.zip
+*.tmp
+
+# Ignore compiled or generated outputs
+dist/
+build/
+node_modules/
+
+# Optional: ignore version saves (if you zip and track separately)
+*_autosave*
+*_v*.*

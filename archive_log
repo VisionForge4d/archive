@@ -1,0 +1,18 @@
+# 🧾 Archive Project Log
+
+This file tracks archived projects: what they were, why they were archived, and any relevant links or version tags. It serves as both a memory bank and a reference vault.
+
+## Entry Format:
+
+[project-name]
+Archived: YYYY-MM-DD
+
+Reason: (Brief sentence — e.g., pivoted, deprecated, merged)
+
+Last Commit/Tag: tag-name or commit-hash
+
+Notes: (Optional: links, lessons, reuse notes)
+
+---
+
+## Log Entries
