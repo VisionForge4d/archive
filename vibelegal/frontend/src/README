@@ -1,0 +1,22 @@
+# [ARCHIVED] VibeLegal Frontend Source
+
+This folder contains **retired components** from the original VibeLegal UI, archived during the cleanup of the `fix/core-generation-bugs` PR.
+
+## 📦 Purpose
+
+These files were fully functional at one point but were removed to reduce technical debt, simplify the codebase, and prepare for a UI overhaul.
+
+Preserved here for reference, reuse, or rollback purposes.
+
+## 💡 Notes
+
+- Archived on: **$(august 2,2025)**  
+- Original repo: [VibeLegal](https://github.com/VisionForge4d/VibeLegal)  
+- Rescued from branch: `fix/core-generation-bugs`
+
+## ⚠️ Status: Inactive
+
+Do **not** modify or depend on this code in production.  
+Use it as a snapshot of prior implementation logic.
+
+---
